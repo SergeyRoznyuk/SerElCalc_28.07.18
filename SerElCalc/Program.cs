@@ -49,6 +49,7 @@ namespace SerElCalc
                 Console.WriteLine(value);
             }
 
+            Console.WriteLine("Finished!");
 
             Console.Read();
         }
